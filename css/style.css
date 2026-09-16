@@ -1998,6 +1998,11 @@ a.footer_schedulebtn {
 .hme_Sectors_slick .slick-list.draggable{
   margin-right: -130px;
 }
+a.view_sectors_link {
+  display: block;
+  border-bottom: unset;
+  text-decoration: underline;
+}
 .Myskills_single {
     float: left;
     width: 50%;
