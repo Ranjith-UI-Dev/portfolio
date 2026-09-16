@@ -1989,8 +1989,14 @@ a.footer_schedulebtn {
 .bannerhme_content_inner {
   padding: 1em 1em 1.5em 1em;
 }
+.Sectors_block{
+  overflow: hidden;
+}
 .Sectorsblk_title {
     margin: 1em 0;
+}
+.hme_Sectors_slick .slick-list.draggable{
+  margin-right: -130px;
 }
 .Myskills_single {
     float: left;
