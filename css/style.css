@@ -2422,6 +2422,9 @@ a.view-btn::before {
 a.view_sectors_link {
   font-size: 13px;
   line-height: 21px;
+  display: block;
+  border-bottom: unset;
+  text-decoration: underline;
 }
 .Sectors_single_content {
     padding: 0em 0.5em 1em 0.5em;
