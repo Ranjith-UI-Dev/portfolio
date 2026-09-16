@@ -2042,14 +2042,12 @@ a.footer_schedulebtn {
 @media only screen and (max-width:480px) {
 
 /* mobile menu open */
-
   
   .mobile-header.fixed,
   .mob_navi.menu.fixed
   {
    position: fixed;
    z-index: 999;
-
   }
   .mobtext {
     position: absolute;
